@@ -78,6 +78,7 @@ let autoSlideTimer = null;
                 class="form-control"
                 id="inputUrl"
                 v-model="newItems.thumb"
+                required
               />
             </div>
           </div>
